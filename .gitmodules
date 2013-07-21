@@ -1,0 +1,3 @@
+[submodule "health_manager"]
+	path = health_manager
+	url = https://github.com/ChenMingHe/heath_manager.git
